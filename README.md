@@ -1,6 +1,6 @@
-# Deep Learning Udacity Nanodegree - 2017
+# Deep Learning Udacity Nanodegree - Completed in August 2017
 
-This repository contains successful project assignments developed as a part of the Deep Learning Foundations Nanodegree on Udacity.
+This repository contains project assignments I developed as a part of the Deep Learning Foundations Nanodegree on Udacity.
 
 ## Projects
 ### 1. First Neural network
