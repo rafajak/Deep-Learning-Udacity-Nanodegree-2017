@@ -4,7 +4,7 @@ This repository contains project assignments I developed as a part of the Deep L
 
 ## Projects
 ### 1. First Neural network
-![neural-net](https://cloud.githubusercontent.com/assets/13810084/21964339/eecfcc62-db17-11e6-9348-90fc5534cf6f.png)
+![neural-net](https://cloud.githubusercontent.com/assets/13810084/21964339/eecfcc62-db17-11e6-9348-90fc5534cf6f.png)(https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/01_first-neural-network-7930ba0/DLND%20Your%20first%20neural%20network.ipynb)
 
 Simple feed-forward neural network for predicting the number of bikeshare users on a given day
 - [iPython Notebook](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/01_first-neural-network-7930ba0/DLND%20Your%20first%20neural%20network.ipynb)
