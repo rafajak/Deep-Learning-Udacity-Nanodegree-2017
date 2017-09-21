@@ -12,7 +12,7 @@ Simple feed-forward neural network for predicting the number of bikeshare users 
 #
 
 ### 2. Image classification
-[!<img src="http://karpathy.github.io/assets/cifar_preview.png" width="350">](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/02_image-classification/dlnd_image_classification3.ipynb)
+[<img src="http://karpathy.github.io/assets/cifar_preview.png" width="350">](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/02_image-classification/dlnd_image_classification3.ipynb)
 
 Convolutional neural network (CNN) classifying images from the CIFAR-10 dataset
 - [iPython Notebook](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/02_image-classification/dlnd_image_classification3.ipynb)
