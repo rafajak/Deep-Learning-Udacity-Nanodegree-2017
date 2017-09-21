@@ -20,7 +20,7 @@ Convolutional neural network (CNN) classifying images from the CIFAR-10 dataset
 #
 
 ### 3. Generate TV Scripts
-![script](https://cloud.githubusercontent.com/assets/13810084/21964337/eecf5f02-db17-11e6-8e9c-e870654472e6.jpg)
+[![script](https://cloud.githubusercontent.com/assets/13810084/21964337/eecf5f02-db17-11e6-8e9c-e870654472e6.jpg)](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/03_dlnd_tv_script_generation/dlnd_tv_script_generation.ipynb)
 
 Recurrent Neural Network (RNN) generating new scripts for The Simpsons.
 - [iPython Notebook](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/03_dlnd_tv_script_generation/dlnd_tv_script_generation.ipynb)
@@ -28,7 +28,7 @@ Recurrent Neural Network (RNN) generating new scripts for The Simpsons.
 #
 
 ### 4. Make a Translation Chat Bot
-![translation](https://cloud.githubusercontent.com/assets/13810084/21964338/eecfb4e8-db17-11e6-91ef-fbc13e22d9cf.jpg)
+[![translation](https://cloud.githubusercontent.com/assets/13810084/21964338/eecfb4e8-db17-11e6-91ef-fbc13e22d9cf.jpg)](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/04_dlnd_language_translation/dlnd_language_translation.ipynb)
 
 Seq2seq RNN chatbot that translates text in real time.
 - [iPython Notebook](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/04_dlnd_language_translation/dlnd_language_translation.ipynb)
@@ -36,7 +36,7 @@ Seq2seq RNN chatbot that translates text in real time.
 #
 
 ### 5. Generate Faces
-![generate-faces](https://cloud.githubusercontent.com/assets/13810084/21964335/eecaf28c-db17-11e6-971b-3937b0905486.jpg)
+[![generate-faces](https://cloud.githubusercontent.com/assets/13810084/21964335/eecaf28c-db17-11e6-971b-3937b0905486.jpg)](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/05_dlnd_face_generation/dlnd_face_generation-Copy12.ipynb)
 
 Generative Adversarial Network (GAN) for generating pictures of human faces.
 - [iPython Notebook](https://github.com/rafajak/Deep-Learning-Udacity-Nanodegree-2017/blob/master/05_dlnd_face_generation/dlnd_face_generation-Copy12.ipynb)
